@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-const base = "/xyang148/"; 
+const base = "/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
