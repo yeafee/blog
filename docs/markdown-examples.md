@@ -84,13 +84,14 @@ This is a details block.
 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
+```js script
 <script src="https://giscus.app/client.js"
-        data-repo="[在此输入仓库]"
-        data-repo-id="[在此输入仓库 ID]"
-        data-category="[在此输入分类名]"
-        data-category-id="[在此输入分类 ID]"
+        data-repo="yeafee/blog"
+        data-repo-id="R_kgDOMuGdyw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMuGdy84CieC8"
         data-mapping="pathname"
-        data-strict="0"
+        data-strict="1"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
@@ -99,3 +100,4 @@ Check out the documentation for the [full list of markdown extensions](https://v
         crossorigin="anonymous"
         async>
 </script>
+```
