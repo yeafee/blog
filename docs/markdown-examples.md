@@ -84,8 +84,6 @@ This is a details block.
 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
-```
-<script>
+```js script
 console.log('hi');
-</script>
 ```
