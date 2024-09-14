@@ -85,19 +85,5 @@ This is a details block.
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
 ```js script
-<script src="https://giscus.app/client.js"
-        data-repo="yeafee/blog"
-        data-repo-id="R_kgDOMuGdyw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOMuGdy84CieC8"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
+
 ```
